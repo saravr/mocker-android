@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410897303681",
+    "project_id": "mockserver-b4cfa",
+    "storage_bucket": "mockserver-b4cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410897303681:android:c97da4d351d47afac42580",
+        "android_client_info": {
+          "package_name": "com.sandymist.android.mocker.apimock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3W3J2Og6EsVhXs7rO9GC-qVXhioBnAM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
